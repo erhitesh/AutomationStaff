@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<Employee>
+		<name>Pankaj</name>
+		<age>29</age>
+		<role>Java Developer</role>
+		<gender>Male</gender>
+	</Employee>
+	<Employee>
+		<name>Lisa</name>
+		<age>35</age>
+		<role>CSS Developer</role>
+		<gender>Female</gender>
+	</Employee>
+	
+	<Employee>
+		<name>Hitesh</name>
+		<age>26</age>
+		<role>Automation Tester</role>
+		<gender>Male</gender>
+	</Employee>
+	
+	<Employee>
+		<name>Dhruv</name>
+		<age>29</age>
+		<role>Manual Tester</role>
+		<gender>Male</gender>
+	</Employee>
+</Employees>

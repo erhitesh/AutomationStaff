@@ -1,0 +1,460 @@
+2019-08-29 23:33:19 INFO  RestAssuredApiTesting:21 - ************************* Started getCityInfo ************************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:32 - ******************  Checking Response Body **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:34 - Response Body ==>{
+    "City": "City",
+    "Temperature": "3.8200000000001 Degree celsius",
+    "Humidity": "74 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "140 Degree"
+}
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:41 - ******************  Checking Status Code **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:43 - Status Code ==>200
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:52 - Response Time is ==>3044
+2019-08-29 23:33:24 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:52 - Response Time is ==>3044
+2019-08-29 23:33:24 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:63 - ******************  Checking Status Line **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:65 - Status Line is ==>HTTP/1.1 200 OK
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:72 - ******************  Checking Content Type **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:74 - Content Type is ==>application/json
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:81 - ******************  Checking Content Encoding **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:83 - Content Encoding is ==>gzip
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:90 - ******************  Checking Server Type **************
+2019-08-29 23:33:24 INFO  RestAssuredApiTesting:92 - Server type is  ==>nginx
+2019-08-29 23:34:58 INFO  RestAssuredApiTesting:22 - ************************* Started getCityInfo ************************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:33 - ******************  Checking Response Body **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:35 - Response Body ==>{
+    "City": "City",
+    "Temperature": "3.8200000000001 Degree celsius",
+    "Humidity": "74 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "140 Degree"
+}
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:42 - ******************  Checking Status Code **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:44 - Status Code ==>200
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:51 - ******************  Checking Response Time **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:53 - Response Time is ==>2931
+2019-08-29 23:35:03 WARN  RestAssuredApiTesting:56 - Response Time is greater than 2000
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:51 - ******************  Checking Response Time **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:53 - Response Time is ==>2931
+2019-08-29 23:35:03 WARN  RestAssuredApiTesting:56 - Response Time is greater than 2000
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:64 - ******************  Checking Status Line **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:66 - Status Line is ==>HTTP/1.1 200 OK
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:73 - ******************  Checking Content Type **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:75 - Content Type is ==>application/json
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:82 - ******************  Checking Content Encoding **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:84 - Content Encoding is ==>gzip
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:91 - ******************  Checking Server Type **************
+2019-08-29 23:35:03 INFO  RestAssuredApiTesting:93 - Server type is  ==>nginx
+2019-08-29 23:42:47 INFO  RestAssuredApiTesting:22 - ************************* Started getCityInfo ************************
+2019-08-29 23:42:52 INFO  RestAssuredApiTesting:33 - ******************  Checking Response Body **************
+2019-08-29 23:42:52 INFO  RestAssuredApiTesting:35 - Response Body ==>{
+    "City": "City",
+    "Temperature": "3.8200000000001 Degree celsius",
+    "Humidity": "74 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "3.1 Km per hour",
+    "WindDirectionDegree": "140 Degree"
+}
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:48 - ******************  Checking Status Code **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:50 - Status Code ==>200
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:57 - ******************  Checking Response Time **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:59 - Response Time is ==>3226
+2019-08-29 23:43:52 WARN  RestAssuredApiTesting:62 - Response Time is greater than 2000
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:57 - ******************  Checking Response Time **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:59 - Response Time is ==>3226
+2019-08-29 23:43:52 WARN  RestAssuredApiTesting:62 - Response Time is greater than 2000
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:70 - ******************  Checking Status Line **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:72 - Status Line is ==>HTTP/1.1 200 OK
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:79 - ******************  Checking Content Type **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:81 - Content Type is ==>application/json
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:88 - ******************  Checking Content Encoding **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:90 - Content Encoding is ==>gzip
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:97 - ******************  Checking Server Type **************
+2019-08-29 23:43:52 INFO  RestAssuredApiTesting:99 - Server type is  ==>nginx
+2019-08-30 00:52:09 INFO  RestAssuredApiTesting:21 - ************************* Started getCityInfo ************************
+2019-08-30 00:52:14 INFO  RestAssuredApiTesting:32 - ******************  Checking Response Body **************
+2019-08-30 00:52:14 INFO  RestAssuredApiTesting:34 - Response Body ==>{
+    "City": "City",
+    "Temperature": "3.65 Degree celsius",
+    "Humidity": "95 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "170 Degree"
+}
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:47 - ******************  Checking Status Code **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:49 - Status Code ==>200
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:56 - ******************  Checking Response Time **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:58 - Response Time is ==>2667
+2019-08-30 00:53:14 WARN  RestAssuredApiTesting:61 - Response Time is greater than 2000
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:56 - ******************  Checking Response Time **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:58 - Response Time is ==>2667
+2019-08-30 00:53:14 WARN  RestAssuredApiTesting:61 - Response Time is greater than 2000
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:69 - ******************  Checking Status Line **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:71 - Status Line is ==>HTTP/1.1 200 OK
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:78 - ******************  Checking Content Type **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:80 - Content Type is ==>application/json
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:87 - ******************  Checking Content Encoding **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:89 - Content Encoding is ==>gzip
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:96 - ******************  Checking Server Type **************
+2019-08-30 00:53:14 INFO  RestAssuredApiTesting:98 - Server type is  ==>nginx
+2019-08-30 00:58:52 INFO  RestAssuredApiTesting:21 - ************************* Started getCityInfo ************************
+2019-08-30 00:58:56 INFO  RestAssuredApiTesting:32 - ******************  Checking Response Body **************
+2019-08-30 00:58:56 INFO  RestAssuredApiTesting:34 - Response Body ==>{
+    "City": "City",
+    "Temperature": "3.65 Degree celsius",
+    "Humidity": "95 Percent",
+    "WeatherDescription": "broken clouds",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "170 Degree"
+}
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:41 - ******************  Checking Status Code **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:43 - Status Code ==>200
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:52 - Response Time is ==>2645
+2019-08-30 00:58:57 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:52 - Response Time is ==>2645
+2019-08-30 00:58:57 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:63 - ******************  Checking Status Line **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:65 - Status Line is ==>HTTP/1.1 200 OK
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:72 - ******************  Checking Content Type **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:74 - Content Type is ==>application/json
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:81 - ******************  Checking Content Encoding **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:83 - Content Encoding is ==>gzip
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:90 - ******************  Checking Server Type **************
+2019-08-30 00:58:57 INFO  RestAssuredApiTesting:92 - Server type is  ==>nginx
+2019-11-12 23:04:37 INFO  RestAssuredApiTesting:24 - ************************* Started TC001_Get_All_Employees ************************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:41 - ******************  Checking Response Body **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:43 - Response Body ==>[{"id":"1","employee_name":"dasd","employee_salary":"2000","employee_age":"13","profile_image":""},{"id":"95955","employee_name":"testEEEEEE","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"95969","employee_name":"King6","employee_salary":"2001","employee_age":"12","profile_image":""},{"id":"95970","employee_name":"King7","employee_salary":"2002","employee_age":"12","profile_image":""},{"id":"95975","employee_name":"King9","employee_salary":"2000","employee_age":"0","profile_image":""},{"id":"95976","employee_name":"King10","employee_salary":"2001","employee_age":"0","profile_image":""},{"id":"95977","employee_name":"King11","employee_salary":"2002","employee_age":"0","profile_image":""},{"id":"95978","employee_name":"King12","employee_salary":"2003","employee_age":"0","profile_image":""},{"id":"95983","employee_name":"Amercian_pai ","employee_salary":"23","employee_age":"2000","profile_image":""},{"id":"95985","employee_name":"King13","employee_salary":"2000","employee_age":"23","profile_image":""},{"id":"95986","employee_name":"King14","employee_salary":"2001","employee_age":"24","profile_image":""},{"id":"95988","employee_name":"King15","employee_salary":"2002","employee_age":"25","profile_image":""},{"id":"95989","employee_name":"King16","employee_salary":"2003","employee_age":"26","profile_image":""},{"id":"95997","employee_name":"soumya","employee_salary":"65000","employee_age":"32","profile_image":""},{"id":"95999","employee_name":"test1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96003","employee_name":"Souradip","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96009","employee_name":"Souradip Goswami","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96016","employee_name":"Shubhra","employee_salary":"50000","employee_age":"18","profile_image":""},{"id":"96027","employee_name":"tomas","employee_salary":"123","employee_age":"0","profile_image":""},{"id":"96030","employee_name":"Pawan3","employee_salary":"100","employee_age":"28","profile_image":""},{"id":"96031","employee_name":"Test_service_Name","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96035","employee_name":"ram","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"96037","employee_name":"shiva","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96050","employee_name":"tfdadfest","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96060","employee_name":"testsadasd","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96064","employee_name":"villain","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96072","employee_name":"Mr.X","employee_salary":"12345678","employee_age":"30","profile_image":""},{"id":"96078","employee_name":"Hendry","employee_salary":"61888","employee_age":"26","profile_image":""},{"id":"96083","employee_name":"Villain123","employee_salary":"101010","employee_age":"31","profile_image":""},{"id":"96086","employee_name":"sfdsafafsd","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96088","employee_name":"dummy1989","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96093","employee_name":"tessasst1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96094","employee_name":"dummy1965","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96101","employee_name":"tomash","employee_salary":"0","employee_age":"18","profile_image":""},{"id":"96107","employee_name":"abc123","employee_salary":"30000","employee_age":"34","profile_image":""},{"id":"96108","employee_name":"pqr123","employee_salary":"40000","employee_age":"42","profile_image":""},{"id":"96109","employee_name":"xyz123","employee_salary":"80000","employee_age":"56","profile_image":""},{"id":"96112","employee_name":"Test456","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96113","employee_name":"Test340","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96117","employee_name":"kkk23","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96119","employee_name":"sreejith","employee_salary":"60000","employee_age":"29","profile_image":""},{"id":"96123","employee_name":"test12","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96125","employee_name":"test789","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96128","employee_name":"testAvi","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96131","employee_name":"shelby","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96132","employee_name":"KK36","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96133","employee_name":"KK41","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96135","employee_name":"KK35","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96137","employee_name":"KK33","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96139","employee_name":"testtAvi1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96140","employee_name":"30883606","employee_salary":"20000","employee_age":"23","profile_image":""},{"id":"96142","employee_name":"KK89","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96144","employee_name":"1076043994","employee_salary":"20000","employee_age":"23","profile_image":""},{"id":"96146","employee_name":"Agni","employee_salary":"100000","employee_age":"28","profile_image":""},{"id":"96151","employee_name":"Arjun","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96152","employee_name":"KK88","employee_salary":"2450","employee_age":"25","profile_image":""},{"id":"96157","employee_name":"Hasan Sas football pro","employee_salary":"21000","employee_age":"27","profile_image":""},{"id":"96158","employee_name":"C0rgvhyfrm","employee_salary":"100","employee_age":"20","profile_image":""},{"id":"96159","employee_name":"Juhlpe4qkx","employee_salary":"100","employee_age":"20","profile_image":""},{"id":"96160","employee_name":"Dz8nqinxg11","employee_salary":"2000","employee_age":"21","profile_image":""},{"id":"96162","employee_name":"Uo2i4i6s2q","employee_salary":"100","employee_age":"20","profile_image":""},{"id":"96167","employee_name":"testtAvi2","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96181","employee_name":"testtAvi4","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96182","employee_name":"saravanan","employee_salary":"100000","employee_age":"28","profile_image":""},{"id":"96186","employee_name":"testtAvi3","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96194","employee_name":"Nandhini","employee_salary":"100","employee_age":"22","profile_image":""},{"id":"96199","employee_name":"testdisha","employee_salary":"423","employee_age":"25","profile_image":""},{"id":"96203","employee_name":"Mahesh23","employee_salary":"123","employee_age":"24","profile_image":""},{"id":"96205","employee_name":"JOHNXY123","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96206","employee_name":"JOHNXY124","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96207","employee_name":"JOHNXY125","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96208","employee_name":"JOHNXY126","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96209","employee_name":"JOHNXY127","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96211","employee_name":"Nandhini1","employee_salary":"100","employee_age":"22","profile_image":""},{"id":"96214","employee_name":"Hasan Sas football","employee_salary":"22000","employee_age":"28","profile_image":""},{"id":"96240","employee_name":"Hasan Sas pro","employee_salary":"23000","employee_age":"30","profile_image":""},{"id":"96251","employee_name":"TESTc","employee_salary":"31658","employee_age":"86","profile_image":""},{"id":"96252","employee_name":"Hasan Sas pro man","employee_salary":"21000","employee_age":"32","profile_image":""},{"id":"96254","employee_name":"TESTn","employee_salary":"91214","employee_age":"72","profile_image":""},{"id":"96279","employee_name":"JOHNXY223","employee_salary":"40000","employee_age":"30","profile_image":""},{"id":"96280","employee_name":"JOHNXY224","employee_salary":"45000","employee_age":"31","profile_image":""},{"id":"96281","employee_name":"JOHNXY225","employee_salary":"40500","employee_age":"40","profile_image":""},{"id":"96282","employee_name":"JOHNXY226","employee_salary":"50000","employee_age":"41","profile_image":""},{"id":"96283","employee_name":"JOHNXY227","employee_salary":"30000","employee_age":"96","profile_image":""},{"id":"96285","employee_name":"prasanna","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96286","employee_name":"StanisP","employee_salary":"88072","employee_age":"3","profile_image":""},{"id":"96288","employee_name":"TESTB","employee_salary":"57610","employee_age":"81","profile_image":""},{"id":"96289","employee_name":"DUST_01","employee_salary":"500000","employee_age":"35","profile_image":""},{"id":"96290","employee_name":"DUST_02","employee_salary":"600000","employee_age":"95","profile_image":""},{"id":"96291","employee_name":"DUST_03","employee_salary":"700000","employee_age":"78","profile_image":""},{"id":"96292","employee_name":"DUST_04","employee_salary":"800000","employee_age":"32","profile_image":""},{"id":"96293","employee_name":"DUST_05","employee_salary":"900000","employee_age":"54","profile_image":""},{"id":"96294","employee_name":"DUST_06","employee_salary":"1000000","employee_age":"8","profile_image":""},{"id":"96295","employee_name":"DUST_07","employee_salary":"1100000","employee_age":"68","profile_image":""},{"id":"96301","employee_name":"Francisca","employee_salary":"9999","employee_age":"23","profile_image":""},{"id":"96302","employee_name":"cris","employee_salary":"8000","employee_age":"30","profile_image":""},{"id":"96305","employee_name":"Neha Garg","employee_salary":"1123","employee_age":"23","profile_image":""},{"id":"96310","employee_name":"prasanna1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96314","employee_name":"AlmayateLand","employee_salary":"666","employee_age":"66","profile_image":""},{"id":"96321","employee_name":"Dolo","employee_salary":"100000","employee_age":"50","profile_image":""},{"id":"96325","employee_name":"ihe","employee_salary":"0","employee_age":"99","profile_image":""},{"id":"96327","employee_name":"test100","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96329","employee_name":"Aditi","employee_salary":"100000","employee_age":"55","profile_image":""},{"id":"96333","employee_name":"marjan","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96338","employee_name":"xml","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96342","employee_name":"sowmi","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96345","employee_name":"preethi","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96352","employee_name":"jeevi","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96353","employee_name":"jkjkljk","employee_salary":"3456","employee_age":"0","profile_image":""},{"id":"96355","employee_name":"Fran","employee_salary":"7000","employee_age":"30","profile_image":""},{"id":"96372","employee_name":"Francisco","employee_salary":"9999","employee_age":"23","profile_image":""},{"id":"96373","employee_name":"aaa","employee_salary":"4555555","employee_age":"788888888","profile_image":""},{"id":"96393","employee_name":"kikkkk","employee_salary":"4555555","employee_age":"788888888","profile_image":""},{"id":"96425","employee_name":"test657","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96427","employee_name":"testprasad","employee_salary":"1","employee_age":"34","profile_image":""},{"id":"96435","employee_name":"SamiN","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96439","employee_name":"monika","employee_salary":"333","employee_age":"23","profile_image":""},{"id":"96444","employee_name":"Fran1","employee_salary":"7000","employee_age":"30","profile_image":""},{"id":"96447","employee_name":"Fran2","employee_salary":"7000","employee_age":"30","profile_image":""},{"id":"96453","employee_name":"roytest","employee_salary":"5100","employee_age":"20","profile_image":""},{"id":"96463","employee_name":"sad","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96468","employee_name":"sa","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96476","employee_name":"jan","employee_salary":"5000","employee_age":"20","profile_image":""},{"id":"96484","employee_name":"demo1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96487","employee_name":"demo","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96488","employee_name":"Da;o;ua","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96489","employee_name":"Daliya","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96491","employee_name":"SamiC","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96494","employee_name":"testtAvi12","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96496","employee_name":"Fran3","employee_salary":"7000","employee_age":"30","profile_image":""},{"id":"96498","employee_name":"Cristina","employee_salary":"80000","employee_age":"32","profile_image":""},{"id":"96504","employee_name":"Cristina2","employee_salary":"80000","employee_age":"32","profile_image":""},{"id":"96505","employee_name":"deva","employee_salary":"23","employee_age":"2300","profile_image":""},{"id":"96508","employee_name":"lourdes","employee_salary":"50000","employee_age":"22","profile_image":""},{"id":"96509","employee_name":"Atanu","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96512","employee_name":"Fran4","employee_salary":"7000","employee_age":"30","profile_image":""},{"id":"96517","employee_name":"testqa","employee_salary":"2000","employee_age":"30","profile_image":""},{"id":"96518","employee_name":"Sushma Karanth M S","employee_salary":"200000000","employee_age":"26","profile_image":""},{"id":"96519","employee_name":"api_test_y","employee_salary":"777","employee_age":"23","profile_image":""},{"id":"96533","employee_name":"Lukasz43368","employee_salary":"30000","employee_age":"35","profile_image":""},{"id":"96535","employee_name":"Marta43368","employee_salary":"9200","employee_age":"21","profile_image":""},{"id":"96537","employee_name":"Filip43368","employee_salary":"54345","employee_age":"44","profile_image":""},{"id":"96538","employee_name":"Mariusz43368","employee_salary":"4433","employee_age":"29","profile_image":""},{"id":"96548","employee_name":"tugba","employee_salary":"10000","employee_age":"36","profile_image":""},{"id":"96552","employee_name":"sena1","employee_salary":"35000","employee_age":"26","profile_image":""},{"id":"96553","employee_name":"gjghjg","employee_salary":"57657","employee_age":"76","profile_image":""},{"id":"96555","employee_name":"praba","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96558","employee_name":"sinan","employee_salary":"123","employee_age":"38","profile_image":""},{"id":"96562","employee_name":"rama","employee_salary":"560000","employee_age":"30","profile_image":""},{"id":"96566","employee_name":"kavuya","employee_salary":"250000","employee_age":"24","profile_image":""},{"id":"96570","employee_name":"cagri","employee_salary":"2147483647","employee_age":"234","profile_image":""},{"id":"96571","employee_name":"test78","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96573","employee_name":"Sasi","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96575","employee_name":"demo2","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96578","employee_name":"preethi1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96589","employee_name":"SamiO","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96591","employee_name":"uma","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96592","employee_name":"vaithiyamanickam","employee_salary":"22000","employee_age":"23","profile_image":""},{"id":"96595","employee_name":"prabak","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96596","employee_name":"Samif","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96597","employee_name":"rgergerger","employee_salary":"2000400000","employee_age":"26","profile_image":""},{"id":"96598","employee_name":"SamiX","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96599","employee_name":"Samid","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96601","employee_name":"the_test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96606","employee_name":"Samia","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96607","employee_name":"Samip","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96608","employee_name":"Samit","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96609","employee_name":"Samis","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96610","employee_name":"Samib","employee_salary":"17649","employee_age":"0","profile_image":""},{"id":"96611","employee_name":"km-test-3","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96612","employee_name":"SamiL","employee_salary":"44280","employee_age":"72","profile_image":""},{"id":"96616","employee_name":"prasanna123","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96618","employee_name":"shakti","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96620","employee_name":"prasanna123a","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96621","employee_name":"Saranya Narayanasamy","employee_salary":"1231","employee_age":"21","profile_image":""},{"id":"96623","employee_name":"SaranyaNarayanasamy","employee_salary":"1231","employee_age":"21","profile_image":""},{"id":"96628","employee_name":"the_test2","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96630","employee_name":"the_test22","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96636","employee_name":"testiqweg","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96644","employee_name":"Prabakaran","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96645","employee_name":"mytestw123","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96646","employee_name":"mytestw234","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96647","employee_name":"mytestw345","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96648","employee_name":"mytestw456","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96652","employee_name":"utra123","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96653","employee_name":"utra234","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96654","employee_name":"utra345","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96655","employee_name":"utra456","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96657","employee_name":"jasmin","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96658","employee_name":"muthu","employee_salary":"12300","employee_age":"23","profile_image":""},{"id":"96660","employee_name":"prakash","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96665","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96671","employee_name":"Prabakaran1","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96672","employee_name":"Astuti","employee_salary":"12376","employee_age":"23","profile_image":""},{"id":"96674","employee_name":"vishnu","employee_salary":"123000","employee_age":"23","profile_image":""},{"id":"96675","employee_name":"TB2FnMGVpP9TW","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96676","employee_name":"itest123","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96677","employee_name":"itest234","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96678","employee_name":"itest345","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96679","employee_name":"itest456","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96680","employee_name":"9AbO0zBcREoHv","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96682","employee_name":"samplename_10827","employee_salary":"10601","employee_age":"28","profile_image":""},{"id":"96683","employee_name":"dnK9Z3Iqpj2xd","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96684","employee_name":"hWp7drIsb3Q49","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96686","employee_name":"hWp7drIsew3Q49","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96689","employee_name":"Djj8490OeFH75","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96695","employee_name":"peterPar","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96697","employee_name":"iytest123","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96698","employee_name":"iytest234","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96699","employee_name":"iytest345","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96700","employee_name":"iytest456","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96703","employee_name":"Onur Deneme1","employee_salary":"260","employee_age":"26","profile_image":""},{"id":"96706","employee_name":"jasmin shiroya","employee_salary":"10000000","employee_age":"19","profile_image":""},{"id":"96709","employee_name":"test13121212","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96710","employee_name":"?","employee_salary":"20","employee_age":"20","profile_image":""},{"id":"96711","employee_name":"Sowmya","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96715","employee_name":"Sharukh","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96719","employee_name":"Hoang 637091602535467527","employee_salary":"1000","employee_age":"28","profile_image":""},{"id":"96721","employee_name":"SaranyaN","employee_salary":"1231","employee_age":"21","profile_image":""},{"id":"96728","employee_name":"Hoel","employee_salary":"25000","employee_age":"15","profile_image":""},{"id":"96730","employee_name":"anarkali","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96736","employee_name":"Alexandr","employee_salary":"0","employee_age":"23","profile_image":""},{"id":"96743","employee_name":"PaulKardf","employee_salary":"0","employee_age":"2147483647","profile_image":""},{"id":"96745","employee_name":"Saran","employee_salary":"1231","employee_age":"21","profile_image":""},{"id":"96746","employee_name":"samplename_10098","employee_salary":"1234","employee_age":"56","profile_image":""},{"id":"96748","employee_name":"samplename_10910","employee_salary":"10148","employee_age":"35","profile_image":""},{"id":"96749","employee_name":"awesome","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96750","employee_name":"samplename_10998","employee_salary":"1234","employee_age":"22","profile_image":""},{"id":"96751","employee_name":"samplename_10042","employee_salary":"1234","employee_age":"29","profile_image":""},{"id":"96754","employee_name":"samplename_10991","employee_salary":"1234","employee_age":"53","profile_image":""},{"id":"96755","employee_name":"samplename_10245","employee_salary":"1234","employee_age":"58","profile_image":""},{"id":"96756","employee_name":"samplename_10253","employee_salary":"1234","employee_age":"31","profile_image":""},{"id":"96757","employee_name":"samplename_10777","employee_salary":"1234","employee_age":"22","profile_image":""},{"id":"96759","employee_name":"samplename_10384","employee_salary":"1234","employee_age":"41","profile_image":""},{"id":"96760","employee_name":"deboraaa","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96761","employee_name":"debora chaves","employee_salary":"0","employee_age":"23","profile_image":""},{"id":"96767","employee_name":"Anjan","employee_salary":"42000","employee_age":"28","profile_image":""},{"id":"96770","employee_name":"Anjan Prakash","employee_salary":"42000","employee_age":"28","profile_image":""},{"id":"96775","employee_name":"test123123123","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96779","employee_name":"test123123121","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96781","employee_name":"xxx","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96785","employee_name":"mitul","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96786","employee_name":"Mitul there","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96788","employee_name":"Naanu Naanu","employee_salary":"12000","employee_age":"55","profile_image":""},{"id":"96794","employee_name":"xex","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96796","employee_name":"Lukasz54184","employee_salary":"30000","employee_age":"35","profile_image":""},{"id":"96797","employee_name":"Marta54184","employee_salary":"9200","employee_age":"21","profile_image":""},{"id":"96798","employee_name":"Filip54184","employee_salary":"54345","employee_age":"44","profile_image":""},{"id":"96799","employee_name":"Mariusz54184","employee_salary":"4433","employee_age":"29","profile_image":""},{"id":"96801","employee_name":"api_test_i_a_A_v_a_b_z","employee_salary":"124","employee_age":"23","profile_image":""},{"id":"96802","employee_name":"Michal54196","employee_salary":"150000","employee_age":"32","profile_image":""},{"id":"96803","employee_name":"Karol54198","employee_salary":"150000","employee_age":"32","profile_image":""},{"id":"96804","employee_name":"MichalUpd54199","employee_salary":"1100000","employee_age":"66","profile_image":""},{"id":"96805","employee_name":"Mitul Vern\u2019s","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96807","employee_name":"Naanu Neenu","employee_salary":"12000","employee_age":"55","profile_image":""},{"id":"96810","employee_name":"TsarikovSa","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96822","employee_name":"testss","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96823","employee_name":"Neenu Neenu","employee_salary":"9000","employee_age":"30","profile_image":""},{"id":"96829","employee_name":"sassssssss","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96831","employee_name":"15241","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96833","employee_name":"Nandy","employee_salary":"100","employee_age":"22","profile_image":""},{"id":"96834","employee_name":"teste11141","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96835","employee_name":"testedfdf11141","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96838","employee_name":"Nandy1","employee_salary":"100","employee_age":"22","profile_image":""},{"id":"96839","employee_name":"testsetesrfser985","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96840","employee_name":"hafizi","employee_salary":"323","employee_age":"23","profile_image":""},{"id":"96844","employee_name":"Claudia Ribeiro","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96845","employee_name":"951853288","employee_salary":"20000","employee_age":"23","profile_image":""},{"id":"96846","employee_name":"951853288shan","employee_salary":"20500","employee_age":"33","profile_image":""},{"id":"96848","employee_name":"Cla\u00fadiaa Ribeiro","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96849","employee_name":"1058836288","employee_salary":"20000","employee_age":"23","profile_image":""},{"id":"96850","employee_name":"1058836288shan","employee_salary":"20500","employee_age":"33","profile_image":""},{"id":"96856","employee_name":"1236547","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96857","employee_name":"Meow","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96861","employee_name":"NamesYLKd","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96863","employee_name":"NamexkjHV","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96864","employee_name":"Skrieeet","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96865","employee_name":"NameGYghA","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96867","employee_name":"SkrieeeEEEt","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96868","employee_name":"NameAGpZd","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96871","employee_name":"otot","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96872","employee_name":"NameZAiJt","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96874","employee_name":"otot2","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96876","employee_name":"otot22","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96877","employee_name":"NameFcKkO","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96878","employee_name":"NameyhilU","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96879","employee_name":"Carol Castro","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96882","employee_name":"NamedeEWx","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96884","employee_name":"NameuFYwV","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96886","employee_name":"testPB","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96887","employee_name":"testPB5","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96888","employee_name":"Andrew S.","employee_salary":"5000","employee_age":"56","profile_image":""},{"id":"96889","employee_name":"NamePBdpl","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96891","employee_name":"NameKPUaN","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"96893","employee_name":"hgjghj","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96898","employee_name":"Teste Debora 02","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96899","employee_name":"TESTNOV5","employee_salary":"1123","employee_age":"23","profile_image":""},{"id":"96908","employee_name":"QTNov1220191501","employee_salary":"12345","employee_age":"30","profile_image":""},{"id":"96917","employee_name":"","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96934","employee_name":"deboradadsad","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96935","employee_name":"Law5rW4hLLEqP","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96937","employee_name":"Teste 12345679","employee_salary":"0","employee_age":"10","profile_image":""},{"id":"96938","employee_name":"Halu Jenu","employee_salary":"23000","employee_age":"20","profile_image":""},{"id":"96940","employee_name":"otot2222","employee_salary":"10000","employee_age":"13","profile_image":""},{"id":"96942","employee_name":"nbnv","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96943","employee_name":"8aigPNeS8GnoQ","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96944","employee_name":"eGejXfX3pV9oA","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96945","employee_name":"VZh2w3ZGHRXoI","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96947","employee_name":"Teste Debora 07dfd","employee_salary":"1500","employee_age":"25","profile_image":""},{"id":"96948","employee_name":"ktrl","employee_salary":"73","employee_age":"22","profile_image":""},{"id":"96950","employee_name":"ewff","employee_salary":"73","employee_age":"22","profile_image":""},{"id":"96951","employee_name":"rtfd","employee_salary":"73","employee_age":"22","profile_image":""},{"id":"96955","employee_name":"Ostra","employee_salary":"0","employee_age":"13","profile_image":""},{"id":"96956","employee_name":"Roberto COy0tl","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96962","employee_name":"Lontra","employee_salary":"0","employee_age":"13","profile_image":""},{"id":"96983","employee_name":"Pato","employee_salary":"0","employee_age":"13","profile_image":""},{"id":"96990","employee_name":"zYItBCBNAe97L","employee_salary":"0","employee_age":"0","profile_image":""},{"id":"96991","employee_name":"testing-name","employee_salary":"111","employee_age":"26","profile_image":""},{"id":"96993","employee_name":"Harryz Potterz","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96995","employee_name":"Harryz105 Potterz","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"96996","employee_name":"PPstit22","employee_salary":"12322","employee_age":"24","profile_image":""},{"id":"96999","employee_name":"asd-testing","employee_salary":"12","employee_age":"12","profile_image":""},{"id":"97003","employee_name":"Jayram","employee_salary":"2000","employee_age":"30","profile_image":""},{"id":"97007","employee_name":"NameJJwzh","employee_salary":"1500","employee_age":"35","profile_image":""},{"id":"97008","employee_name":"ajax","employee_salary":"12121","employee_age":"1212","profile_image":""},{"id":"97043","employee_name":"Sachin","employee_salary":"100000","employee_age":"28","profile_image":""},{"id":"97044","employee_name":"jj","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"97045","employee_name":"jakethedog","employee_salary":"10000","employee_age":"30","profile_image":""},{"id":"97046","employee_name":"Troelff","employee_salary":"12233","employee_age":"0","profile_image":""},{"id":"97047","employee_name":"eagle3122asdas21as21asas121","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"97052","employee_name":"nandini","employee_salary":"9999","employee_age":"25","profile_image":""},{"id":"97053","employee_name":"anjana","employee_salary":"8888","employee_age":"32","profile_image":""}]
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:50 - ******************  Checking Status Code **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:52 - Status Code ==>200
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:59 - ******************  Checking Response Time **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:61 - Response Time is ==>4743
+2019-11-12 23:04:48 WARN  RestAssuredApiTesting:64 - Response Time is greater than 2000
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:59 - ******************  Checking Response Time **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:61 - Response Time is ==>4743
+2019-11-12 23:04:48 WARN  RestAssuredApiTesting:64 - Response Time is greater than 2000
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:72 - ******************  Checking Status Line **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:74 - Status Line is ==>HTTP/1.1 200 OK
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:81 - ******************  Checking Content Type **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:83 - Content Type is ==>text/html; charset=UTF-8
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:90 - ******************  Checking Content Encoding **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:92 - Content Encoding is ==>gzip
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:99 - ******************  Checking Server Type **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:101 - Server type is  ==>nginx/1.16.0
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:99 - ******************  Checking Server Type **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:101 - Server type is  ==>nginx/1.16.0
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:108 - ******************  Checking Content Length **************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:110 - Content Length is ==>4189
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:121 - ************************* Finished TC001_Get_All_Employees **********************
+2019-11-12 23:04:48 INFO  RestAssuredApiTesting:21 - ************************* Started TC002_Get_Single_Employee ************************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:29 - ******************  Checking Response Body **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:31 - Response Body ==>{"id":"1","employee_name":"dasd","employee_salary":"2000","employee_age":"13","profile_image":""}
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:37 - ******************  Checking Status Code **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:39 - Status Code ==>200
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:45 - ******************  Checking Response Time **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:47 - Response Time is ==>1607
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:45 - ******************  Checking Response Time **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:47 - Response Time is ==>1607
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:58 - ******************  Checking Status Line **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:60 - Status Line is ==>HTTP/1.1 200 OK
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:67 - ******************  Checking Content Type **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:69 - Content Type is ==>text/html; charset=UTF-8
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:76 - ******************  Checking Server Type **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:78 - Server type is  ==>nginx/1.16.0
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:76 - ******************  Checking Server Type **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:78 - Server type is  ==>nginx/1.16.0
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:85 - ******************  Checking Content Length **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:87 - Content Length is ==>87
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:85 - ******************  Checking Content Length **************
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:87 - Content Length is ==>87
+2019-11-12 23:04:50 INFO  RestAssuredApiTesting:98 - ************************* Finished TC001_Get_All_Employees **********************
+2019-11-12 23:04:51 INFO  RestAssuredApiTesting:27 - ************************* Started TC003_Post_Employee_Record ************************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:45 - ******************  Checking Response Body **************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:46 - {"name":"Rest-ApivrRTS","salary":"13141","age":"58","id":"97055"}
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:55 - ******************  Checking Status Code **************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:57 - Status Code ==>200
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:63 - ******************  Checking Response Time **************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:65 - Response Time is ==>1170
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:63 - ******************  Checking Response Time **************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:65 - Response Time is ==>1170
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:76 - ******************  Checking Status Line **************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:78 - Status Line is ==>HTTP/1.1 200 OK
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:85 - ******************  Checking Content Type **************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:87 - Content Type is ==>text/html; charset=UTF-8
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:94 - ************************* Finished TC001_Get_All_Employees **********************
+2019-11-12 23:04:52 INFO  RestAssuredApiTesting:28 - ************************* Started TC004_Put_Employee_Record ************************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:47 - ******************  Checking Response Body **************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:48 - {"name":"Rest-ApizRIqs","salary":"85146","age":"73"}
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:57 - ******************  Checking Status Code **************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:59 - Status Code ==>200
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:65 - ******************  Checking Response Time **************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:67 - Response Time is ==>1123
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:65 - ******************  Checking Response Time **************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:67 - Response Time is ==>1123
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:78 - ******************  Checking Status Line **************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:80 - Status Line is ==>HTTP/1.1 200 OK
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:87 - ******************  Checking Content Type **************
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:89 - Content Type is ==>text/html; charset=UTF-8
+2019-11-12 23:04:53 INFO  RestAssuredApiTesting:96 - ************************* Finished TC001_Get_All_Employees **********************
+2019-11-12 23:04:54 INFO  RestAssuredApiTesting:26 - ************************* Started TC005_Put_Employee_Record ************************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:34 - ******************  Checking Response Body **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:35 - {"success":{"text":"successfully! deleted Records"}}
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:34 - ******************  Checking Response Body **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:35 - {"success":{"text":"successfully! deleted Records"}}
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:44 - ******************  Checking Status Code **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:46 - Status Code ==>200
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:52 - ******************  Checking Response Time **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:54 - Response Time is ==>999
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:52 - ******************  Checking Response Time **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:54 - Response Time is ==>999
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:65 - ******************  Checking Status Line **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:67 - Status Line is ==>HTTP/1.1 200 OK
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:74 - ******************  Checking Content Type **************
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:76 - Content Type is ==>text/html; charset=UTF-8
+2019-11-12 23:04:55 INFO  RestAssuredApiTesting:83 - ************************* Finished TC001_Get_All_Employees **********************
+2019-11-12 23:06:05 INFO  RestAssuredApiTesting:21 - ************************* Started getCityInfo ************************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:32 - ******************  Checking Response Body **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:34 - Response Body ==>{
+    "City": "City",
+    "Temperature": "8.34 Degree celsius",
+    "Humidity": "49 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:41 - ******************  Checking Status Code **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:43 - Status Code ==>200
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:52 - Response Time is ==>4461
+2019-11-12 23:06:12 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:52 - Response Time is ==>4461
+2019-11-12 23:06:12 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:63 - ******************  Checking Status Line **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:65 - Status Line is ==>HTTP/1.1 200 OK
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:72 - ******************  Checking Content Type **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:74 - Content Type is ==>application/json
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:81 - ******************  Checking Content Encoding **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:83 - Content Encoding is ==>gzip
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:90 - ******************  Checking Server Type **************
+2019-11-12 23:06:12 INFO  RestAssuredApiTesting:92 - Server type is  ==>nginx
+2019-12-01 23:08:47 INFO  RestAssuredApiTesting:21 - ************************* Started getCityInfo ************************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:32 - ******************  Checking Response Body **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:34 - Response Body ==>{
+    "City": "City",
+    "Temperature": "7.91 Degree celsius",
+    "Humidity": "66 Percent",
+    "WeatherDescription": "overcast clouds",
+    "WindSpeed": "7.7 Km per hour",
+    "WindDirectionDegree": "320 Degree"
+}
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:41 - ******************  Checking Status Code **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:43 - Status Code ==>200
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:52 - Response Time is ==>3681
+2019-12-01 23:08:53 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:50 - ******************  Checking Response Time **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:52 - Response Time is ==>3681
+2019-12-01 23:08:53 WARN  RestAssuredApiTesting:55 - Response Time is greater than 2000
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:63 - ******************  Checking Status Line **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:65 - Status Line is ==>HTTP/1.1 200 OK
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:72 - ******************  Checking Content Type **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:74 - Content Type is ==>application/json
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:81 - ******************  Checking Content Encoding **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:83 - Content Encoding is ==>gzip
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:90 - ******************  Checking Server Type **************
+2019-12-01 23:08:53 INFO  RestAssuredApiTesting:92 - Server type is  ==>nginx
+2019-12-02 00:01:36 INFO  RestAssuredApiTesting:24 - Response io.restassured.internal.RestAssuredResponseImpl@34a1d21f
+2019-12-02 00:02:09 INFO  RestAssuredApiTesting:24 - Response {"error":"unsupported_grant_type","error_description":"Grant type \u0022403712f51da4c832604acfb11d3c5eaa\u0022 not supported"}
+2019-12-02 00:10:14 INFO  RestAssuredApiTesting:24 - Response {"error":"unsupported_grant_type","error_description":"Grant type \u0022b550787d053841a13c250b2a5c4e6277\u0022 not supported"}
+2019-12-02 00:16:45 INFO  RestAssuredApiTesting:24 - Response {"access_token":"c126c9b0a924b93e0c0d155dae35a4b65b5da29f","expires_in":86400,"token_type":"Bearer","scope":"barn-unlock toiletseat-down chickens-feed eggs-collect eggs-count profile"}
+2019-12-02 00:20:13 INFO  RestAssuredApiTesting:32 - Response {"error":"invalid_request","error_description":"Missing parameter: \u0022code\u0022 is required"}
+2019-12-02 00:21:51 INFO  RestAssuredApiTesting:32 - Response <!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"b4d8035b34",applicationID:"133417283"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+        <meta name="robots" content="noindex,nofollow" />
+        <style>
+            /* Copyright (c) 2010, Yahoo! Inc. All rights reserved. Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html */
+            html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+
+            html { background: #eee; padding: 10px }
+            img { border: 0; }
+            #sf-resetcontent { width:970px; margin:0 auto; }
+                        .sf-reset { font: 11px Verdana, Arial, sans-serif; color: #333 }
+            .sf-reset .clear { clear:both; height:0; font-size:0; line-height:0; }
+            .sf-reset .clear_fix:after { display:block; height:0; clear:both; visibility:hidden; }
+            .sf-reset .clear_fix { display:inline-block; }
+            .sf-reset * html .clear_fix { height:1%; }
+            .sf-reset .clear_fix { display:block; }
+            .sf-reset, .sf-reset .block { margin: auto }
+            .sf-reset abbr { border-bottom: 1px dotted #000; cursor: help; }
+            .sf-reset p { font-size:14px; line-height:20px; color:#868686; padding-bottom:20px }
+            .sf-reset strong { font-weight:bold; }
+            .sf-reset a { color:#6c6159; }
+            .sf-reset a img { border:none; }
+            .sf-reset a:hover { text-decoration:underline; }
+            .sf-reset em { font-style:italic; }
+            .sf-reset h1, .sf-reset h2 { font: 20px Georgia, "Times New Roman", Times, serif }
+            .sf-reset h2 span { background-color: #fff; color: #333; padding: 6px; float: left; margin-right: 10px; }
+            .sf-reset .traces li { font-size:12px; padding: 2px 4px; list-style-type:decimal; margin-left:20px; }
+            .sf-reset .block { background-color:#FFFFFF; padding:10px 28px; margin-bottom:20px;
+                -webkit-border-bottom-right-radius: 16px;
+                -webkit-border-bottom-left-radius: 16px;
+                -moz-border-radius-bottomright: 16px;
+                -moz-border-radius-bottomleft: 16px;
+                border-bottom-right-radius: 16px;
+                border-bottom-left-radius: 16px;
+                border-bottom:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+            }
+            .sf-reset .block_exception { background-color:#ddd; color: #333; padding:20px;
+                -webkit-border-top-left-radius: 16px;
+                -webkit-border-top-right-radius: 16px;
+                -moz-border-radius-topleft: 16px;
+                -moz-border-radius-topright: 16px;
+                border-top-left-radius: 16px;
+                border-top-right-radius: 16px;
+                border-top:1px solid #ccc;
+                border-right:1px solid #ccc;
+                border-left:1px solid #ccc;
+                overflow: hidden;
+                word-wrap: break-word;
+            }
+            .sf-reset li a { background:none; color:#868686; text-decoration:none; }
+            .sf-reset li a:hover { background:none; color:#313131; text-decoration:underline; }
+            .sf-reset ol { padding: 10px 0; }
+            .sf-reset h1 { background-color:#FFFFFF; padding: 15px 28px; margin-bottom: 20px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                border-radius: 10px;
+                border: 1px solid #ccc;
+            }
+        </style>
+    </head>
+    <body>
+                    <div id="sf-resetcontent" class="sf-reset">
+                <h1>Whoops, looks like something went wrong.</h1>
+                                        <div class="block_exception clear_fix">
+                            <h2><span>2/2</span> <abbr title="Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException">MethodNotAllowedHttpException</abbr>: No route found for "POST /authorize": Method Not Allowed (Allow: GET)</h2>
+                        </div>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in /var/www/apps/code/oauth/server/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/RouterListener.php line 120</li>
+       <li>at <abbr title="Symfony\Component\HttpKernel\EventListener\RouterListener">RouterListener</abbr>->onKernelRequest(<em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>array</em>(<em>object</em>(<abbr title="Symfony\Component\HttpKernel\EventListener\RouterListener">RouterListener</abbr>), 'onKernelRequest'), <em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>)) in /var/www/apps/code/oauth/server/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcher.php line 164</li>
+       <li>at <abbr title="Symfony\Component\EventDispatcher\EventDispatcher">EventDispatcher</abbr>->doDispatch(<em>array</em>(<em>array</em>(<em>object</em>(<abbr title="Silex\Provider\SessionServiceProvider">SessionServiceProvider</abbr>), 'onEarlyKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Symfony\Component\HttpKernel\EventListener\RouterListener">RouterListener</abbr>), 'onKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Silex\EventListener\LocaleListener">LocaleListener</abbr>), 'onKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Symfony\Component\Security\Http\Firewall">Firewall</abbr>), 'onKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Silex\EventListener\MiddlewareListener">MiddlewareListener</abbr>), 'onKernelRequest')), 'kernel.request', <em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>)) in /var/www/apps/code/oauth/server/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcher.php line 53</li>
+       <li>at <abbr title="Symfony\Component\EventDispatcher\EventDispatcher">EventDispatcher</abbr>->dispatch('kernel.request', <em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>)) in /var/www/apps/code/oauth/server/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernel.php line 98</li>
+       <li>at <abbr title="Symfony\Component\HttpKernel\HttpKernel">HttpKernel</abbr>->handleRaw(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>), '1') in /var/www/apps/code/oauth/server/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernel.php line 61</li>
+       <li>at <abbr title="Symfony\Component\HttpKernel\HttpKernel">HttpKernel</abbr>->handle(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>), '1', <em>true</em>) in /var/www/apps/code/oauth/server/vendor/silex/silex/src/Silex/Application.php line 504</li>
+       <li>at <abbr title="Silex\Application">Application</abbr>->handle(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>)) in /var/www/apps/code/oauth/server/vendor/silex/silex/src/Silex/Application.php line 481</li>
+       <li>at <abbr title="Silex\Application">Application</abbr>->run(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>)) in /var/www/apps/code/oauth/server/web/index.php line 26</li>
+    </ol>
+</div>
+                        <div class="block_exception clear_fix">
+                            <h2><span>1/2</span> <abbr title="Symfony\Component\Routing\Exception\MethodNotAllowedException">MethodNotAllowedException</abbr>: </h2>
+                        </div>
+                        <div class="block">
+                            <ol class="traces list_exception">
+       <li> in /var/www/apps/code/oauth/server/vendor/symfony/routing/Symfony/Component/Routing/Matcher/UrlMatcher.php line 90</li>
+       <li>at <abbr title="Symfony\Component\Routing\Matcher\UrlMatcher">UrlMatcher</abbr>->match('/authorize') in /var/www/apps/code/oauth/server/vendor/symfony/routing/Symfony/Component/Routing/Matcher/RedirectableUrlMatcher.php line 30</li>
+       <li>at <abbr title="Symfony\Component\Routing\Matcher\RedirectableUrlMatcher">RedirectableUrlMatcher</abbr>->match('/authorize') in /var/www/apps/code/oauth/server/vendor/silex/silex/src/Silex/LazyUrlMatcher.php line 51</li>
+       <li>at <abbr title="Silex\LazyUrlMatcher">LazyUrlMatcher</abbr>->match('/authorize') in /var/www/apps/code/oauth/server/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/EventListener/RouterListener.php line 102</li>
+       <li>at <abbr title="Symfony\Component\HttpKernel\EventListener\RouterListener">RouterListener</abbr>->onKernelRequest(<em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>))</li>
+       <li>at <abbr title=""></abbr>call_user_func(<em>array</em>(<em>object</em>(<abbr title="Symfony\Component\HttpKernel\EventListener\RouterListener">RouterListener</abbr>), 'onKernelRequest'), <em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>)) in /var/www/apps/code/oauth/server/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcher.php line 164</li>
+       <li>at <abbr title="Symfony\Component\EventDispatcher\EventDispatcher">EventDispatcher</abbr>->doDispatch(<em>array</em>(<em>array</em>(<em>object</em>(<abbr title="Silex\Provider\SessionServiceProvider">SessionServiceProvider</abbr>), 'onEarlyKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Symfony\Component\HttpKernel\EventListener\RouterListener">RouterListener</abbr>), 'onKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Silex\EventListener\LocaleListener">LocaleListener</abbr>), 'onKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Symfony\Component\Security\Http\Firewall">Firewall</abbr>), 'onKernelRequest'), <em>array</em>(<em>object</em>(<abbr title="Silex\EventListener\MiddlewareListener">MiddlewareListener</abbr>), 'onKernelRequest')), 'kernel.request', <em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>)) in /var/www/apps/code/oauth/server/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcher.php line 53</li>
+       <li>at <abbr title="Symfony\Component\EventDispatcher\EventDispatcher">EventDispatcher</abbr>->dispatch('kernel.request', <em>object</em>(<abbr title="Symfony\Component\HttpKernel\Event\GetResponseEvent">GetResponseEvent</abbr>)) in /var/www/apps/code/oauth/server/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernel.php line 98</li>
+       <li>at <abbr title="Symfony\Component\HttpKernel\HttpKernel">HttpKernel</abbr>->handleRaw(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>), '1') in /var/www/apps/code/oauth/server/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/HttpKernel.php line 61</li>
+       <li>at <abbr title="Symfony\Component\HttpKernel\HttpKernel">HttpKernel</abbr>->handle(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>), '1', <em>true</em>) in /var/www/apps/code/oauth/server/vendor/silex/silex/src/Silex/Application.php line 504</li>
+       <li>at <abbr title="Silex\Application">Application</abbr>->handle(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>)) in /var/www/apps/code/oauth/server/vendor/silex/silex/src/Silex/Application.php line 481</li>
+       <li>at <abbr title="Silex\Application">Application</abbr>->run(<em>object</em>(<abbr title="OAuth2\HttpFoundationBridge\Request">Request</abbr>)) in /var/www/apps/code/oauth/server/web/index.php line 26</li>
+    </ol>
+</div>
+
+            </div>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b4d8035b34","applicationID":"133417283","transactionName":"MgEBMkZVXBFXBRENWwtLNhRdG1sMUgMdSkQNFA==","queueTime":0,"applicationTime":6,"atts":"HkYCRA5PTx8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+2019-12-02 00:23:16 INFO  RestAssuredApiTesting:32 - Response <!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"b4d8035b34",applicationID:"133417283"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/coop.css" />
+</head>
+<body>
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+    <![endif]-->
+
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="/" class="navbar-brand">The COOP</a>
+            </div>
+            <div class="navbar-collapse collapse" id="navbar-main">
+                <ul class="nav navbar-nav navbar-right">
+                                            <li><a href="/register">Register</a></li>
+                        <li><a href="/login">Login</a></li>
+                                        <li><a href="/api">API</a></li>
+                    <li><a href="http://builtwithbootstrap.com/" target="_blank">Built With Bootstrap</a></li>
+                    <li><a href="http://bootswatch.com/amelia/" target="_blank">BootsWatch</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="page-header">
+            <h1>Login!</h1>        </div>
+
+        <div class="bs-docs-section" role="main">
+    
+    <div class="row">
+        <form class="bs-example form-horizontal" action="/login_check" method="post">
+            <fieldset>
+                <div class="form-group">
+                    <label for="form-email" class="col-lg-2 control-label">Email</label>
+                    <div class="col-lg-10">
+                        <input type="text" class="form-control" id="form-email" name="_username" placeholder="foo@example.com" value="" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="form-password" class="col-lg-2 control-label">Password</label>
+                    <div class="col-lg-10">
+                        <input type="password" class="form-control" id="form-password" name="_password" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-lg-10 col-lg-offset-2">
+                        <button type="submit" class="btn btn-primary">Login!</button>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b4d8035b34","applicationID":"133417283","transactionName":"MgEBMkZVXBFXBRENWwtLIgVAXV0MGRMWAUY6CAwBXVo=","queueTime":0,"applicationTime":14,"atts":"HkYCRA5PTx8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+2019-12-02 00:30:27 INFO  RestAssuredApiTesting:26 - Response {"access_token":"eb117941146da5552dc76b4885373bfdcd3dd65d","expires_in":86400,"token_type":"Bearer","scope":"barn-unlock toiletseat-down chickens-feed eggs-collect eggs-count profile"}
+2019-12-02 00:33:17 INFO  RestAssuredApiTesting:26 - Response {"access_token":"57230e7e41d65d38358b7a147b71ed0d93d8d671","expires_in":86400,"token_type":"Bearer","scope":"barn-unlock toiletseat-down chickens-feed eggs-collect eggs-count profile"}
+2019-12-02 00:33:18 INFO  RestAssuredApiTesting:42 - User Id 593

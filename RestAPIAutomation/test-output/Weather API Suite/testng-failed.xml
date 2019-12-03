@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Weather API Suite]">
+  <parameter name="apiUrl" value="Weather_Url"/>
+  <listeners>
+    <listener class-name="com.restUtils.AnnotationTransformer"/>
+    <listener class-name="com.restUtils.TestListener"/>
+  </listeners>
+  <test name="WeatherTC(failed)">
+    <classes>
+      <class name="com.restAssuredTestCases.WeatherTC">
+        <methods>
+          <include name="checkResponseTime"/>
+          <include name="getCityInfo"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.restAssuredTestCases.WeatherTC -->
+    </classes>
+  </test> <!-- WeatherTC(failed) -->
+</suite> <!-- Failed suite [Weather API Suite] -->

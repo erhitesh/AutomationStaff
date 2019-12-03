@@ -1,0 +1,10 @@
+name: Employee API Suite
+parameters: { apiUrl: http://dummy.restapiexample.com/api/v1 }
+listeners:
+  - com.restUtils.AnnotationTransformer
+  - com.restUtils.TestListener
+tests:
+  - name: TC001_Get_Employees_Record
+    classes:
+      - com.restAssuredTestCases.GroovyFunctionTest
+

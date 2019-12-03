@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Testng Annotations Execution Order" verbose="1">
+	<test name="Execution Order">
+		<classes>
+			<class name="com.testng.MyTestClass1" />
+			<class name="com.testng.MyTestClass2" />
+		</classes>
+	</test>
+	
+	<test name="Execution Order2">
+		<classes>
+			<class name="com.testng.MyTestClass1" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Run multiple suites xml" verbose="1" parallel="tests" thread-count="5">
+<suite-files>
+<suite-file path="TestTestNg.xml"/>
+<suite-file path="MyTest1.xml"/>
+</suite-files>
+</suite>

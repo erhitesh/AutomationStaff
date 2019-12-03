@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Employee API Suite" preserve-order="true">
+	<listeners>
+		<listener class-name="com.restUtils.AnnotationTransformer" />
+		<listener class-name="com.restUtils.TestListener" />
+	</listeners>
+
+	<parameter name="apiUrl" value="ResponseAsListUrl" />
+
+	<test name="Take Response As List">
+		<classes>
+			<class name="com.restAssuredTestCases.ResponseAsList" />
+		</classes>
+	</test>
+</suite> 
